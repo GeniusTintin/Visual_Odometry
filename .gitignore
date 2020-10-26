@@ -1,0 +1,10 @@
+# subfolders
+Figures/
+Legacy/
+Report/
+u7024641_engn4627_Lab3_code/
+
+# unwanted files
+*.rar
+u7024641_engn4627_Lab3report.pdf
+robot_trail.mat
